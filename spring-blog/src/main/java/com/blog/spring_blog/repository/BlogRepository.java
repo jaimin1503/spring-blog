@@ -1,4 +1,5 @@
 package com.blog.spring_blog.repository;
 
-public interface BlogRepository {
-}
+
+import com.blog.spring_blog.entity.Blog;
+import org.springframework.act;
